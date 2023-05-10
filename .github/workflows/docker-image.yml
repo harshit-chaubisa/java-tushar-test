@@ -11,7 +11,7 @@ jobs:
 
   build:
 
-    runs-on: github-runner-1
+    runs-on: github-runner-2
 
     steps:
     - uses: actions/checkout@v3
